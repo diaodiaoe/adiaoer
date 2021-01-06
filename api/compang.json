@@ -1,0 +1,89 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "cname": "腾讯",
+      "city": "深圳",
+      "trade": "网游",
+      "telephone": "123456789",
+      "leader": "张三",
+      "status": "好",
+      "job": "是",
+      "操作":"ttg"
+    }, {
+      "cname": "腾讯",
+      "city": "深圳",
+      "trade": "网游",
+      "telephone": "123456789",
+      "leader": "张三",
+      "status": "好",
+      "job": "是",
+      "操作":"ttg"
+    },{
+      "cname": "腾讯",
+      "city": "深圳",
+      "trade": "网游",
+      "telephone": "123456789",
+      "leader": "张三",
+      "status": "好",
+      "job": "是",
+      "操作":"ttg"
+    },{
+      "cname": "腾讯",
+      "city": "深圳",
+      "trade": "网游",
+      "telephone": "123456789",
+      "leader": "张三",
+      "status": "好",
+      "job": "是",
+      "操作":"ttg"
+    },{
+      "cname": "腾讯",
+      "city": "深圳",
+      "trade": "网游",
+      "telephone": "123456789",
+      "leader": "张三",
+      "status": "好",
+      "job": "是",
+      "操作":"ttg"
+    },{
+      "cname": "腾讯",
+      "city": "深圳",
+      "trade": "网游",
+      "telephone": "123456789",
+      "leader": "张三",
+      "status": "好",
+      "job": "是",
+      "操作":"ttg"
+    },{
+      "cname": "腾讯",
+      "city": "深圳",
+      "trade": "网游",
+      "telephone": "123456789",
+      "leader": "张三",
+      "status": "好",
+      "job": "是",
+      "操作":"ttg"
+    },{
+      "cname": "腾讯",
+      "city": "深圳",
+      "trade": "网游",
+      "telephone": "123456789",
+      "leader": "张三",
+      "status": "好",
+      "job": "是",
+      "操作":"ttg"
+    },{
+      "cname": "腾讯",
+      "city": "深圳",
+      "trade": "网游",
+      "telephone": "123456789",
+      "leader": "张三",
+      "status": "好",
+      "job": "是",
+      "操作":"ttg"
+    }
+  ]
+}

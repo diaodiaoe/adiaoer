@@ -1,0 +1,52 @@
+
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "id": 1,
+      "cname": "腾讯",
+      "leader": "张三",
+      "teacher": "李四",
+      "activityDate":"2020-12-12",
+      "address": "图书馆五楼"
+
+    }, {
+      "id": 2,
+      "cname": "腾讯",
+      "leader": "张三",
+      "teacher": "李四",
+      "activityDate":"2020-12-12",
+      "address": "图书馆五楼"
+    },  {
+      "id": 3,
+      "cname": "腾讯",
+      "leader": "张三",
+      "teacher": "李四",
+      "activityDate":"2020-12-12",
+      "address": "图书馆五楼"
+    },  {
+      "id": 4,
+      "cname": "腾讯",
+      "leader": "张三",
+      "teacher": "李四",
+      "activityDate":"2020-12-12",
+      "address": "图书馆五楼"
+    }, {
+      "id": 5,
+      "cname": "腾讯",
+      "leader": "张三",
+      "teacher": "李四",
+      "activityDate":"2020-12-12",
+      "address": "图书馆五楼"
+    },  {
+      "id": 6,
+      "cname": "腾讯",
+      "leader": "张三",
+      "teacher": "李四",
+      "activityDate":"2020-12-12",
+      "address": "图书馆五楼"
+    }
+  ]
+}
